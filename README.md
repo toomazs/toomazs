@@ -1,6 +1,6 @@
 ## Nice to meet you. I'm Eduardo Tomaz. 💫
 
-<b> <i> 👩‍💻 • Information Systems <i> </b> Student with advanced knowledge in Web Development and Databases. <br>
+<b> <i> 👩‍💻 • Computer Science <i> </b> Student with advanced knowledge in Web Development and Databases. <br>
 ✅ • Ability to solve geral problems, communicate and learn quickly.<br>
 👀 • Looking for opportunities to apply my knowledge in a growing technology company.
 
