@@ -8,8 +8,8 @@
 
 ---
 
-🎓 i'm a comp sci student who’s always deep in some project or learning something new 
-🧠 currently focused on backend dev, automation, and anything that involves logic & caffeine 
+🎓 i'm a comp sci student who’s always deep in some project or learning something new <br>
+🧠 currently focused on backend dev, automation, and anything that involves logic & caffeine <br>
 ⚙️ if it's got a terminal, i'm probably already in it lol
 
 ---
