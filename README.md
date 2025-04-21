@@ -29,15 +29,6 @@
 
 ---
 
-### 📊 github stats (a little peek)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toomazs&show_icons=true&theme=tokyonight&count_private=true&hide=prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toomazs&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
----
-
 ### 📬 let’s connect!
 
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardotoomazs)  
