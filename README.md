@@ -1,30 +1,48 @@
-## 👋 Welcome! I'm Eduardo Tomaz. 
+## 👋 hey! i'm Eduardo Tomaz
 
-🎓 **Computer Science student** passionate about technology, with strong skills in **Java**, **C++**, **C#**, and **Databases**. <br>
-🚀 I love solving problems, picking up new skills, and chatting about code.   <br>
-😄 If it involves programming, count me in 
+[![code nerd](https://img.shields.io/badge/code-nerd-blue?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/toomazs)
+[![java junkie](https://img.shields.io/badge/java-junkie-red?style=flat-square&logo=java&logoColor=white)](https://github.com/toomazs)
+[![c++ player](https://img.shields.io/badge/c++-player-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/toomazs)
+[![tech explorer](https://img.shields.io/badge/tech-explorer-purple?style=flat-square&logo=terminal&logoColor=white)](https://github.com/toomazs)
+[![coffee powered](https://img.shields.io/badge/coffee-powered-DB4C3F?style=flat-square&logo=buymeacoffee&logoColor=white)](https://github.com/toomazs)
 
---- 
-<br>
+---
 
+🎓 i'm a comp sci student who’s always deep in some project or learning something new.  
+💡 love building cool stuff, messing with code, and figuring out how things work behind the scenes.  
+🧠 currently focused on backend dev, automation, and anything that involves logic & caffeine.  
+⚙️ if it's got a terminal, i'm probably already in it lol
 
-### 🛠️ Tech Stack
+---
+
+### 💻 tech stack i mess with
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
-  <img align="center" alt="Gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+  <img align="center" alt="gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
+  <img align="center" alt="c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 </div>
 
-<br>
-<br> 
-<br> 
+---
+
+### 📊 github stats (a little peek)
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toomazs&show_icons=true&theme=tokyonight&count_private=true&hide=prs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toomazs&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
+
+---
+
+### 📬 let’s connect!
+
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardotoomazs)  
+[![gmail](https://img.shields.io/badge/email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardotoomaz@Outlook.com)  
+[![github](https://img.shields.io/badge/github-333?style=flat-square&logo=github&logoColor=white)](https://github.com/toomazs)
+
+---
 
