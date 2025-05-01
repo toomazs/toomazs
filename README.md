@@ -9,7 +9,7 @@
 ---
 
 🎓 i'm a comp sci student who’s always deep in some project or learning something new <br>
-🧠 currently focused on backend dev, automation, and anything that involves logic & caffeine <br>
+🧠 currently focused on backend dev automation, already a front end dev and anything that involves logic & caffeine <br>
 ⚙️ if it's got a terminal, i'm probably already in it lol
 
 ---
