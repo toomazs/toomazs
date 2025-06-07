@@ -1,45 +1,64 @@
-## 👋 hey! i'm Eduardo Tomaz
+# 👋 Eduardo Tomaz
 
-[![code nerd](https://img.shields.io/badge/code-nerd-blue?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/toomazs)
-[![java junkie](https://img.shields.io/badge/java-junkie-red?style=flat-square&logo=java&logoColor=white)](https://github.com/toomazs)
-[![c++ player](https://img.shields.io/badge/c++-player-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/toomazs)
-[![tech explorer](https://img.shields.io/badge/tech-explorer-purple?style=flat-square&logo=terminal&logoColor=white)](https://github.com/toomazs)
-[![coffee powered](https://img.shields.io/badge/coffee-powered-DB4C3F?style=flat-square&logo=buymeacoffee&logoColor=white)](https://github.com/toomazs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardotoomazs)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardotoomaz@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toomazs)
 
 ---
 
-🎓 i'm a comp sci student who’s always deep in some project or learning something new <br>
-🧠 currently focused on backend dev automation, already a front end dev and anything that involves logic & caffeine <br>
-⚙️ if it's got a terminal, i'm probably already in it lol
+## 🚀 sobre mim
+
+sou um **full stack dev** apaixonado por tecnologia e sempre em busca de novos desafios. <br>
+atualmente cursando **ciências da computação** (3/8) e focando em automações usando java, golang e estudando aplicações práticas para uso corporativo e pessoal.
+
+```java
+public class Eduardo {
+    private String role = "full stack dev & comp sci student";
+    private String[] focus = {"backend development", "automations", "dbs"};
+    private String[] techStack = {"java", "golang", "apis", "maven", "gradle", "spring boot", "javaFX", "sql"};
+    private String currentlyLearning = "c++ & kotlin";
+    private String coffeeLevel = "maximum ☕";
+    
+    public void code() {
+        while (coffeeLevel.equals("maximum")) {
+            buildAwesomeProjects();
+            learnNewTechnologies();
+        }
+    }
+}
+```
 
 ---
 
-### 💻 tech stack i mess with
+## 🛠️ tech stack
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="springboot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
-  <img align="center" alt="gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
-  <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="mariadb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="supabase" height="30" width="40" src="https://cdn.simpleicons.org/supabase/3ECF8E">
-  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- 
+### **backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+### **build tools**
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+### **databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### **frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+
+---
+
+<div align="center">
+  
+**"☕→💻"** 
 </div>
-
-
-
----
-
-### 📬 let’s connect!
-
-[![linkedin](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardotoomazs)  
-[![gmail](https://img.shields.io/badge/email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardotoomaz@Outlook.com)  
-[![github](https://img.shields.io/badge/github-333?style=flat-square&logo=github&logoColor=white)](https://github.com/toomazs)
-
----
-
