@@ -1,4 +1,4 @@
-# Eduardo Tomaz // full stack dev
+# software developer
 
 <div>
   <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
@@ -18,7 +18,7 @@
 
 ```java
 public class Eduardo {
-    private String role = "full stack dev & comp sci student";
+    private String role = "software developer & comp sci student";
     private String[] focus = {"backend development", "automations", "DBs"};
     private String[] techStack = {"java", "go", "APIs", "maven", "gradle", "spring boot", "javaFX", "SQL"};
     private String currentlyLearning = "c++ & kotlin";
