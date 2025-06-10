@@ -1,26 +1,31 @@
-# 👋 Eduardo Tomaz
+# Eduardo Tomaz // full stack dev
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardotoomazs)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardotoomaz@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@tomazdudux-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tomazdudux)
+<div>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <a href="https://www.linkedin.com/in/eduardotoomazs" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Eduardo_Tomaz-6B46C1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6B46C1" alt="LinkedIn Profile"/>
+    </a>
+    <a href="mailto:eduardotoomaz@outlook.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/eduardotoomaz@outlook.com-6B46C1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6B46C1" alt="Email Contact"/>
+    </a>
+    <a href="https://instagram.com/tomazdudux" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/@tomazdudux-6B46C1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6B46C1" alt="Instagram Profile"/>
+    </a>
+  </div>
+</div>
 
 ---
-
-## 🚀 sobre mim
-
-sou um **full stack dev** apaixonado por tecnologia e sempre em busca de novos desafios. <br>
-atualmente cursando **ciências da computação** (3/8) e focando em automações usando java, golang e estudando aplicações práticas para uso corporativo e pessoal.
 
 ```java
 public class Eduardo {
     private String role = "full stack dev & comp sci student";
-    private String[] focus = {"backend development", "automations", "dbs"};
-    private String[] techStack = {"java", "golang", "apis", "maven", "gradle", "spring boot", "javaFX", "sql"};
+    private String[] focus = {"backend development", "automations", "DBs"};
+    private String[] techStack = {"java", "go", "APIs", "maven", "gradle", "spring boot", "javaFX", "SQL"};
     private String currentlyLearning = "c++ & kotlin";
-    private String coffeeLevel = "maximum ☕";
-    
+    private String coffeeLevel = "maximum possible";
+
     public void code() {
-        while (coffeeLevel.equals("maximum")) {
+        while (coffeeLevel.equals("maximum possible")) {
             buildAwesomeProjects();
             learnNewTechnologies();
         }
@@ -28,37 +33,45 @@ public class Eduardo {
 }
 ```
 
----
+## 🖥️ stacks
 
-## 🛠️ tech stack
+<div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/-java-0041a8?style=flat&logo=OpenJDK&logoColor=white" height="30" alt="Java" />
+<img src="https://img.shields.io/badge/-go-0041a8?style=flat&logo=Go&logoColor=white" height="30" alt="Go" />
+<img src="https://img.shields.io/badge/-spring-0041a8?style=flat&logo=Spring&logoColor=white" height="30" alt="Spring" />
+<img src="https://img.shields.io/badge/-kotlin-0041a8?style=flat&logo=Kotlin&logoColor=white" height="30" alt="Kotlin" />
+<img src="https://img.shields.io/badge/-c++-0041a8?style=flat&logo=cplusplus&logoColor=white" height="30" alt="C++" />
+</div>
 
-### **backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+<div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/-maven-4900bf?style=flat&logo=apachemaven&logoColor=white" height="30" alt="Maven" />
+<img src="https://img.shields.io/badge/-gradle-4900bf?style=flat&logo=Gradle&logoColor=white" height="30" alt="Gradle" />
+<img src="https://img.shields.io/badge/-javaFX-4900bf?style=flat&logo=JavaFX&logoColor=white" height="30" alt="JavaFX" />
+<img src="https://img.shields.io/badge/-APIs-4900bf?style=flat&logo=Zapier&logoColor=white" height="30" alt="APIs" />
+</div>
 
-### **build tools**
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+<div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/-postgreSQL-c70050?style=flat&logo=PostgreSQL&logoColor=white" height="30" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/-mySQL-c70050?style=flat&logo=databricks&logoColor=white" height="30" alt="MySQL" />
+<img src="https://img.shields.io/badge/-docker-c70050?style=flat&logo=Docker&logoColor=white" height="30" alt="Docker" />
+</div>
 
-### **databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/-haml/pug-DD0031?style=flat&logo=pug&logoColor=white" height="30" alt="HAML/PUG" />
+<img src="https://img.shields.io/badge/-tailwind-DD0031?style=flat&logo=tailwindcss&logoColor=white" height="30" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/-typescript-DD0031?style=flat&logo=typescript&logoColor=white" height="30" alt="TypeScript" />
+</div>
 
-### **frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+<br>
 
----
 
-<div align="center">
-  
-**"☕→💻"** 
+
+## 📊 data
+
+<div style="display: flex; flex-direction: column;">
+<img
+width="730"
+src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toomazs&theme=midnight_purple"
+/>
+</div>
 </div>
