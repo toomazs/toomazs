@@ -33,7 +33,7 @@ public class Eduardo {
 }
 ```
 
-## 🖥️ stacks
+## tech stack
 
 <div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px; margin-top: 10px;">
 <img src="https://img.shields.io/badge/-java-0041a8?style=flat&logo=OpenJDK&logoColor=white" height="30" alt="Java" />
@@ -64,14 +64,3 @@ public class Eduardo {
 
 <br>
 
-
-
-## 📊 data
-
-<div style="display: flex; flex-direction: column;">
-<img
-width="730"
-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toomazs&theme=midnight_purple"
-/>
-</div>
-</div>
