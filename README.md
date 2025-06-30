@@ -17,20 +17,17 @@
 ---
 
 ```java
-public class Eduardo {
-    private String role = "software developer & comp sci student";
-    private String[] focus = {"backend development", "automations", "DBs"};
-    private String[] techStack = {"java", "go", "APIs", "maven", "gradle", "spring boot", "javaFX", "SQL"};
-    private String currentlyLearning = "c++ & kotlin";
-    private String coffeeLevel = "maximum possible";
-
-    public void code() {
-        while (coffeeLevel.equals("maximum possible")) {
-            buildAwesomeProjects();
-            learnNewTechnologies();
-        }
-    }
+public static ProfessionalSkills createDeveloper() {
+    return ProfessionalSkills.builder()
+        .name("Eduardo Tomaz")
+        .code(List.of("Java", "Go", "Kotlin", "C++", "TypeScript", "React"))
+        .dataBase(List.of("PostgreSQL", "MariaDB", "Supabase", "NoSQL"))
+        .framework(List.of("Spring Boot", "JavaFX"))
+        .architecture(List.of("Microservices", "Rest", "Clean Architecture", "Hexagonal Architecture"))
+        .tools(List.of("Maven", "Gradle", "Docker", "Tailwind", "HAML", "Pug", "APIs"))
+        .build();
 }
+
 ```
 
 ## tech stack
