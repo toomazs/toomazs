@@ -14,7 +14,6 @@ I work primarily with corporate applications and internal automation systems, fo
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=A5B4FC)
 ![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=A5B4FC)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=A5B4FC)
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=A5B4FC)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=A5B4FC)
 
